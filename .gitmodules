@@ -1,0 +1,3 @@
+[submodule "ynov_movies"]
+	path = ynov_movies
+	url = https://github.com/mohamed-ndoye811/ynov_movies
